@@ -38,12 +38,24 @@ The designs were created to the following widths:
 body {
     font-size: 15px;
     font-family: "Outfit", sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
 }
 
 img {
     max-width: 100%;
 }
 
+.container {
+    background-color: white;
+}
 
 .attribution {
     font-size: 11px;
